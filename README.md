@@ -13,7 +13,7 @@
 
  <strong> This is the application which you can draw the application with the help of brush, with the size of 5 and 10 width and can be change the style using the Color you can change the paint. </strong>
 
- ![](https://pandao.github.com/main/DrawingAApp.jpg)
+ ![](https://www.github.com/main/DrawingAApp.jpg)
 
 
 > "Turn your screen into a canvas and your ideas into masterpieces."
