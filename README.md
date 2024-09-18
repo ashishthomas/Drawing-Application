@@ -10,4 +10,5 @@
 </picture>
 <br>
 
-<p style="color:blue"> This is the application which you can draw the application with the help of brush, with the size of 5 and 10 width and can be change the style using the Color you can change the paint. </p> 
+
+> "This is the application which you can draw the application with the help of brush, with the size of 5 and 10 width and can be change the style using the Color you can change the paint."  
