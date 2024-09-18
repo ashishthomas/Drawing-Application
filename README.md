@@ -9,10 +9,5 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src"https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 <br>
-# Project Title
 
-This is a regular text.
-
-<span style="color:blue">This text is blue!</span>
-
-<!-- <span style="color:blue"> This is the application which you can draw the application with the help of brush, with the size of 5 and 10 width and can be change the style using the Color you can change the paint. </span> -->
+<span style="color:blue"> This is the application which you can draw the application with the help of brush, with the size of 5 and 10 width and can be change the style using the Color you can change the paint. </span> 
