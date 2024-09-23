@@ -14,6 +14,24 @@
 <strong> This is the application which you can draw the application with the help of brush, with the size of 5 and 10 width and can be change the style using the Color you can change the paint. </strong>
 
 ![image of a proejct](/Drawing%20App%20.jpg)
-<s>
+
+## How to run
+
+1. Clone the repository: `git clone https://github.com/your-username/drawing-app.git`
+2. Open the project in your preferred code editor.
+3. Run the application.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Features
+
+- Drawing: Users can draw on the canvas using various tools and colors.
+- Eraser: Users can erase parts of their drawing.
+- Color Picker: Users can choose colors from a color palette.
+- Clear Canvas: Users can clear the entire canvas.
 
 > "Turn your screen into a canvas and your ideas into masterpieces."
