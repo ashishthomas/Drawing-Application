@@ -1,4 +1,5 @@
 # Drawing Application
+
 <br>
 <i> A drawing application is a software tool designed for creating and editing digital illustrations, sketches, and designs. These applications offer a variety of tools, such as brushes, pencils, and shapes, that allow users to draw, paint, or design digitally. </i>
 <br>
@@ -10,12 +11,8 @@
 </picture>
 <br>
 
+<strong> This is the application which you can draw the application with the help of brush, with the size of 5 and 10 width and can be change the style using the Color you can change the paint. </strong>
 
- <strong> This is the application which you can draw the application with the help of brush, with the size of 5 and 10 width and can be change the style using the Color you can change the paint. </strong>
-
- ![Alt text](DrawingApp.jpg "Drawing App")
-
+![image of a proejct](/Drawing%20App%20.jpg)
 
 > "Turn your screen into a canvas and your ideas into masterpieces."
-
-
